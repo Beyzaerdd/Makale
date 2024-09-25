@@ -13,7 +13,7 @@
 Bütün bu bilgileri Medium hesabımdan ulaşabilir daha fazla yazılar için beni takip edebilirsin: 
 
 
-Medium : 
+Medium : https://medium.com/@erdbeyza14
 
 
 
@@ -34,7 +34,7 @@ Finally, you will learn detailed information about Visual Studio Code and why it
 You can access all this information from my Medium account and follow me for more articles:
 
 
-Medium :
+Medium : https://medium.com/@erdbeyza14
 
  
 
